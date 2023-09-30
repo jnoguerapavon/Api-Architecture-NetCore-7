@@ -1,13 +1,31 @@
-# Skinet Udemy Course repository
+Setting up the developer environment
 
-This is the updated repository for the .Net 7.0, Angular 15 and Bootstrap 5 version of the course refreshed as at January 2023
+Creating a multi project .net core application using the dotnet CLI
 
-View a demo of this app [here](https://skinet.trycatchlearn.com).  
+Creating a client side front-end Angular UI for the store using the Angular CLI
 
-You can see how this app was made by checking out the Udemy course for this here (with discount)
+Learn how to use the Repository, Unit of Work and specification pattern in .net core
 
-[Udemy course](https://www.udemy.com/course/learn-to-build-an-e-commerce-app-with-net-core-and-angular/?couponCode=DEF89B3169FF2B609AD8)
+Using multiple DbContext as context boundaries
 
-If you are looking for the repository for the version of this app created on .Net 6.0 and Angular v12 then this is available here:
+Using ASP.NET Identity for login and registration
 
-https://github.com/TryCatchLearn/Skinet-v6
+Using the angular modules to create lazy loaded routes.
+
+Using Automapper in ASP.NET Core
+
+Building a great looking UI using Bootstrap
+
+Making reusable form components using Angular Reactive forms
+
+Paging, Sorting, Searching and Filtering
+
+Using Redis to store the shopping basket
+
+Creating orders from the shopping basket
+
+Accepting payments via Stripe using the new EU standards for 3D secure
+
+Publishing the application to Linux
+
+Many more things as well
