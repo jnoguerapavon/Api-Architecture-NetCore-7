@@ -26,6 +26,14 @@ namespace API.Helpers
                 .ForMember(d => d.ProductName, o => o.MapFrom(s => s.ItemOrdered.ProductName))
                 .ForMember(d => d.PictureUrl, o => o.MapFrom(s => s.ItemOrdered.PictureUrl))
                 .ForMember(d => d.PictureUrl, o => o.MapFrom<OrderItemUrlResolver>());
+
+            CreateMap<Proveedor, ProveedorToReturnDto>()
+                .ForMember(d => d.Rubro, o => o.MapFrom(s => s.Rubros.Name));
+
+
+            CreateMap<employee, EmployeetoReturnDto>()
+              .ForMember(d => d.education, o => o.MapFrom(s => s.CatEducation.name))
+              .ForMember(d => d.company, o => o.MapFrom(s => s.CatCompany.name));
         }
     }
 }

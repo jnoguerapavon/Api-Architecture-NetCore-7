@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\API.csproj": {}
+    "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\API.csproj": {
+    "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\API.csproj",
+        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\obj\\",
+        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -53,31 +53,19 @@
               "target": "Package",
               "version": "[12.0.0, )"
             },
-            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
-              "target": "Package",
-              "version": "[1.0.0, )"
-            },
-            "Azure.Identity": {
-              "target": "Package",
-              "version": "[1.6.0, )"
-            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.1, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.9, )"
-            },
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.19.4, )"
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -103,18 +91,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj": {
+    "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\obj\\",
+        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -150,7 +138,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.1, )"
             }
           },
           "imports": [
@@ -169,18 +157,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -202,8 +190,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj"
+              "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj"
               }
             }
           }
@@ -224,19 +212,19 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.13, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
               "version": "[6.25.1, )"
             },
-            "Oracle.EntityFrameworkCore": {
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[7.21.11, )"
+              "version": "[7.0.1, )"
             },
             "StackExchange.Redis": {
               "target": "Package",
@@ -267,7 +255,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,7 +8,6 @@ using Infrastructure.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
-using Azure.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 

@@ -12,6 +12,9 @@ import { LoadingInterceptor } from './core/interceptors/loading.interceptor';
 import { JwtInterceptor } from './core/interceptors/jwt.interceptor';
 import { OrderDetailedComponent } from './order-detailed/order-detailed.component';
 
+import { ModalModule, BsModalService } from 'ngx-bootstrap/modal';
+
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -23,12 +26,13 @@ import { OrderDetailedComponent } from './order-detailed/order-detailed.componen
     BrowserAnimationsModule,
     HttpClientModule,
     CoreModule,
-    HomeModule
+    HomeModule,
+    ModalModule
   ],
   providers: [
     {provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true},
     {provide: HTTP_INTERCEPTORS, useClass: LoadingInterceptor, multi: true},
-    {provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true},
+    {provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true},BsModalService
   ],
   bootstrap: [AppComponent]
 })

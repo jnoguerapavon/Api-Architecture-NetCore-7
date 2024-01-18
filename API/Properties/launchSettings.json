@@ -1,26 +1,14 @@
-{
+﻿{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
   "profiles": {
     "https": {
       "commandName": "Project",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development",
-        "VaultUri": "https://apivaultjn.vault.azure.net/",
-        "AZURE_USERNAME": "julio.noguera.pavon@outlook.com"
-      },
       "dotnetRunMessages": true,
-      "applicationUrl": "https://localhost:5001"
-    },
-    "Docker": {
-      "commandName": "Docker",
-      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:5001",
       "environmentVariables": {
-        "ASPNETCORE_URLS": "https://+:443;http://+:80",
-        "VaultUri": "https://apivaultjn.vault.azure.net/",
-        "AZURE_USERNAME": "julio.noguera.pavon@outlook.com"
-      },
-      "publishAllPorts": true,
-      "useSSL": true
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
     }
-  },
-  "$schema": "https://json.schemastore.org/launchsettings.json"
+  }
 }

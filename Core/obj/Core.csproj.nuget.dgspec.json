@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj": {}
+    "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj": {
+    "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\julio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\Core\\obj\\",
+        "outputPath": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,7 +47,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.9, )"
+              "version": "[7.0.1, )"
             }
           },
           "imports": [
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

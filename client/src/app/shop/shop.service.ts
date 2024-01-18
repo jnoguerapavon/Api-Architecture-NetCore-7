@@ -7,6 +7,7 @@ import { Pagination } from '../shared/models/pagination';
 import { Product } from '../shared/models/product';
 import { ShopParams } from '../shared/models/shopParams';
 import { Type } from '../shared/models/type';
+import { Proveedor } from '../shared/models/proveedor';
 
 @Injectable({
   providedIn: 'root'
@@ -19,6 +20,8 @@ export class ShopService {
   pagination?: Pagination<Product[]>;
   shopParams = new ShopParams();
   productCache = new Map<string, Pagination<Product[]>>();
+  proveedorCache = new Map<string, Pagination<Proveedor[]>>();
+  paginationProveedor?: Pagination<Proveedor[]>;
 
   constructor(private http: HttpClient) { }
 
@@ -85,4 +88,46 @@ export class ShopService {
       map(types => this.types = types)
     );
   }
+
+
+
+  getProveedores(useCache = true): Observable<Pagination<Proveedor[]>> {
+
+    if (!useCache) this.proveedorCache = new Map();
+
+    if (this.proveedorCache.size > 0 && useCache) {
+      if (this.proveedorCache.has(Object.values(this.shopParams).join('-'))) {
+        this.paginationProveedor = this.proveedorCache.get(Object.values(this.shopParams).join('-'));
+        if(this.paginationProveedor) return of(this.paginationProveedor);
+      }
+    }
+
+    let params = new HttpParams();
+
+
+    params = params.append('sort', this.shopParams.sort);
+    params = params.append('pageIndex', this.shopParams.pageNumber);
+    params = params.append('pageSize', this.shopParams.pageSize);
+    if (this.shopParams.search) params = params.append('search', this.shopParams.search);
+
+    return this.http.get<Pagination<Proveedor[]>>(this.baseUrl + 'proveedor', {params}).pipe(
+      map(response => {
+        this.proveedorCache.set(Object.values(this.shopParams).join('-'), response)
+        this.paginationProveedor = response;
+        return response;
+      })
+    )
+  }
+
+
+  
+  getProveedor(id: number): Observable<any> {
+    return this.http.get(this.baseUrl + 'proveedor/' + id);
+  }
+
+
+  saveProveedor(proveedor: Proveedor): Observable<any> {
+    return this.http.put(this.baseUrl + 'proveedor', proveedor);
+  }
+
 }

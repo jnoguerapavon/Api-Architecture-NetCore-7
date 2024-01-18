@@ -13,6 +13,7 @@ const routes: Routes = [
   {path: 'server-error', component: ServerErrorComponent},
   {path: 'shop', loadChildren: () => import('./shop/shop.module').then(m => m.ShopModule)},
   {path: 'basket', loadChildren: () => import('./basket/basket.module').then(m => m.BasketModule)},
+  {path: 'proveedor', loadChildren: () => import('./proveedor/proveedor.module').then(m => m.proveedorModule)},
   {
     path: 'checkout', 
     canActivate: [AuthGuard],

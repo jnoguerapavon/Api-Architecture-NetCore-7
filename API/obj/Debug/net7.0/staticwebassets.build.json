@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kXXCxcgx/qDmL8oPdSxAB3aoWblO/DV3aJQMLnEEl5M=",
+  "Hash": "Fa7ygyzTSLZb/13uGFGRx8gNfIAbXSx51VfEtkrCx3A=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "API\\wwwroot",
       "Source": "API",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\187.3f89f8dda6e8a837.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "187.3f89f8dda6e8a837.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\187.3f89f8dda6e8a837.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\207.94788854e2426271.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\207.94788854e2426271.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "207.94788854e2426271.js",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\207.94788854e2426271.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\333.d3c995fcef704013.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\333.d3c995fcef704013.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "333.d3c995fcef704013.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\333.d3c995fcef704013.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\3rdpartylicenses.txt",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\3rdpartylicenses.txt",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "3rdpartylicenses.txt",
       "AssetKind": "All",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\3rdpartylicenses.txt"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\481.514c3cb36d1d4ed4.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\481.9a797fbd8f5fd2a9.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "481.514c3cb36d1d4ed4.js",
+      "RelativePath": "481.9a797fbd8f5fd2a9.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\481.514c3cb36d1d4ed4.js"
+      "OriginalItemSpec": "wwwroot\\481.9a797fbd8f5fd2a9.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\920.1882ac29d9f06436.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\920.1882ac29d9f06436.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "920.1882ac29d9f06436.js",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\920.1882ac29d9f06436.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\assets\\images\\hero1.jpg",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\assets\\images\\hero1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero1.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero1.jpg"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\assets\\images\\hero2.jpg",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\assets\\images\\hero2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero2.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero2.jpg"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\assets\\images\\hero3.jpg",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\assets\\images\\hero3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/hero3.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\hero3.jpg"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\assets\\images\\placeholder.png",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\assets\\images\\placeholder.png",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "assets/images/placeholder.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\placeholder.png"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\common.bd884877f7f0ba29.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\common.bd884877f7f0ba29.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "common.bd884877f7f0ba29.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\common.bd884877f7f0ba29.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\favicon.ico",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.2b13baa7dd4f54c9.eot",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.8a7cb27d142e3e19.ttf",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.cf011583fb81df9f.woff",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.da909aa098b0ee2d.svg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "fontawesome-webfont.e9955780856cf8aa.woff2",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\index.html",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\main.5a96f0f8b6a1e6e1.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "main.5a96f0f8b6a1e6e1.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\main.5a96f0f8b6a1e6e1.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\polyfills.f91a65f870354b2e.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
       "RelativePath": "polyfills.f91a65f870354b2e.js",
       "AssetKind": "All",
@@ -374,12 +374,12 @@
       "OriginalItemSpec": "wwwroot\\polyfills.f91a65f870354b2e.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\runtime.876f3864605b89cf.js",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\runtime.1a36a8c8176a89a5.js",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "runtime.876f3864605b89cf.js",
+      "RelativePath": "runtime.1a36a8c8176a89a5.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -388,15 +388,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\runtime.876f3864605b89cf.js"
+      "OriginalItemSpec": "wwwroot\\runtime.1a36a8c8176a89a5.js"
     },
     {
-      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\styles.ef6fa8486c959dca.css",
+      "Identity": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\styles.e03f01a639544ed3.css",
       "SourceId": "API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Apis-Architecture-NetCore-7\\API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\julio\\OneDrive\\Documentos\\Desarrollo\\skinet\\API\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "styles.ef6fa8486c959dca.css",
+      "RelativePath": "styles.e03f01a639544ed3.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -405,7 +405,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\styles.ef6fa8486c959dca.css"
+      "OriginalItemSpec": "wwwroot\\styles.e03f01a639544ed3.css"
     }
   ]
 }
