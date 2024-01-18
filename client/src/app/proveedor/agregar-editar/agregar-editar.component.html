@@ -1,0 +1,67 @@
+  
+
+<div class="container">
+
+
+    
+<h3 class="mt-3">{{ accion }} Proveedor</h3>
+<form [formGroup]="agregarProveedor" (ngSubmit)="agregarEditarProveedor()">
+
+
+
+    <div class="input-group">
+        <span class="input-group-text">name</span>
+        <input formControlName="name" type="text" class="form-control" id="name">
+        <span class="text-danger" *ngIf="agregarProveedor.get('name')?.invalid && agregarProveedor.get('name')?.touched">
+            El <strong>Nombre</strong> es requerido
+        </span>
+      </div>
+
+
+
+      <div class="input-group">
+        <span class="input-group-text">description</span>
+        <input formControlName="description" type="text" class="form-control" id="description">
+        <span class="text-danger" *ngIf="agregarProveedor.get('description')?.invalid && agregarProveedor.get('description')?.touched">
+            La <strong>description</strong> es requerida
+        </span>
+      </div>
+
+      <div class="input-group">
+        <span class="input-group-text">telefono</span>
+        <input formControlName="telefono" type="text" class="form-control" id="telefono">
+        <span class="text-danger" *ngIf="agregarProveedor.get('telefono')?.invalid && agregarProveedor.get('telefono')?.touched">
+            El <strong>telefono</strong> es requerido
+        </span>
+      </div>
+
+      <div class="input-group">
+        <span class="input-group-text">Correo</span>
+        <input formControlName="correo" type="email" class="form-control" id="correo">
+            <span class="text-danger" *ngIf="agregarProveedor.get('correo')?.invalid && agregarProveedor.get('correo')?.touched">
+                El <strong>correo</strong> es requerido
+            </span>
+      </div>
+
+
+
+      <div class="input-group">
+        <span class="input-group-text">Rubro</span>
+         <input formControlName="rubrosId" type="text" class="form-control" id="rubrosId">
+            <span class="text-danger" *ngIf="agregarProveedor.get('rubrosId')?.invalid && agregarProveedor.get('rubrosId')?.touched">
+                El <strong>rubrosId</strong> es requerido
+            </span>
+      </div>
+
+      <div class="input-group">
+        <button type="submit" class="btn btn-primary float-end">Aceptar</button>
+          <button type="button" routerLink="/proveedor" class="btn btn-secondary">Volver</button>
+      </div>
+
+       
+    
+</form>
+
+  
+  </div>
+
